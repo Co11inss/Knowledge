@@ -1,0 +1,3 @@
+﻿  Ounces to grams.cpp
+C:\Users\ME\OneDrive\Documents\C++ Programs\Ounces to grams\Ounces to grams.cpp(26,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ounces to grams.vcxproj -> C:\Users\ME\OneDrive\Documents\C++ Programs\Ounces to grams\Debug\Ounces to grams.exe

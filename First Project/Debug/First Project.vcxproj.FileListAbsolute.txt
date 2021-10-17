@@ -1,0 +1,2 @@
+C:\Users\ME\source\repos\First Project\Debug\First Project.exe
+C:\Users\ME\source\repos\First Project\Debug\First Project.pdb

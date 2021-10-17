@@ -1,0 +1,3 @@
+﻿  Session4Exercise4.cpp
+C:\Users\ME\OneDrive\Documents\C++ Programs\Pointers\Session4Exercise4.cpp(11,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pointers.vcxproj -> C:\Users\ME\OneDrive\Documents\C++ Programs\Pointers\Debug\Pointers.exe

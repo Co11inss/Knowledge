@@ -1,0 +1,2 @@
+C:\Users\ME\source\repos\Using the debugger\Debug\Using the debugger.exe
+C:\Users\ME\source\repos\Using the debugger\Debug\Using the debugger.pdb

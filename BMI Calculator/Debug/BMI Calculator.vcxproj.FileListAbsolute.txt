@@ -1,0 +1,3 @@
+C:\Users\ME\Documents\C++ Programs\BMI Calculator\Debug\BMI Calculator.exe
+C:\Users\ME\Documents\C++ Programs\BMI Calculator\Debug\BMI Calculator.pdb
+C:\Users\colli\OneDrive\Documents\Knowledge\BMI Calculator\Debug\BMI Calculator.exe

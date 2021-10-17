@@ -1,0 +1,4 @@
+﻿  Using the debugger.cpp
+C:\Users\ME\source\repos\Using the debugger\Using the debugger.cpp(10,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ME\source\repos\Using the debugger\Using the debugger.cpp(16,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Using the debugger.vcxproj -> C:\Users\ME\source\repos\Using the debugger\Debug\Using the debugger.exe

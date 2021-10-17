@@ -1,0 +1,3 @@
+C:\Users\ME\OneDrive\Documents\C++ Programs\Strings\Debug\Strings.exe
+C:\Users\ME\OneDrive\Documents\C++ Programs\Strings\Debug\Strings.pdb
+C:\Users\colli\OneDrive\Documents\Knowledge\Strings\Debug\Strings.exe

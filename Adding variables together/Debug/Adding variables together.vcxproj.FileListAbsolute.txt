@@ -1,0 +1,2 @@
+C:\Users\ME\Documents\C++ Programs\Adding variables together\Debug\Adding variables together.exe
+C:\Users\ME\Documents\C++ Programs\Adding variables together\Debug\Adding variables together.pdb

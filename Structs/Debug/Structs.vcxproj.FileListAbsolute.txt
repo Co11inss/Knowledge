@@ -1,0 +1,2 @@
+C:\Users\ME\OneDrive\Documents\C++ Programs\Structs\Debug\Structs.exe
+C:\Users\ME\OneDrive\Documents\C++ Programs\Structs\Debug\Structs.pdb

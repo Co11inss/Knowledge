@@ -1,0 +1,3 @@
+﻿  Loops and Arrays of Floats.cpp
+C:\Users\ME\OneDrive\Documents\C++ Programs\Loops and Arrays of Floats\Loops and Arrays of Floats.cpp(49,106): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Loops and Arrays of Floats.vcxproj -> C:\Users\ME\OneDrive\Documents\C++ Programs\Loops and Arrays of Floats\Debug\Loops and Arrays of Floats.exe

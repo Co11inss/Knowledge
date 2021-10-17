@@ -1,0 +1,2 @@
+C:\Users\ME\OneDrive\Documents\C++ Programs\Files\Debug\Files.exe
+C:\Users\ME\OneDrive\Documents\C++ Programs\Files\Debug\Files.pdb
